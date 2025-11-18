@@ -1,0 +1,38 @@
+﻿@model CrudDemo.Models.Product
+
+@{
+    ViewData["Title"] = "Eliminar producto";
+}
+
+<div class="card bg-black text-light shadow-lg border-danger">
+    <div class="card-header border-danger">
+        <h2 class="fw-bold text-danger mb-0">¿Eliminar producto?</h2>
+    </div>
+
+    <div class="card-body">
+
+        <p>Estás a punto de eliminar este producto. ¿Deseas continuar?</p>
+
+        <ul class="list-group mb-4">
+            <li class="list-group-item bg-dark text-light border-secondary">
+                <strong>Nombre:</strong> @Model.Name
+            </li>
+            <li class="list-group-item bg-dark text-light border-secondary">
+                <strong>Precio:</strong> S/. @Model.Price
+            </li>
+            <li class="list-group-item bg-dark text-light border-secondary">
+                <strong>Stock:</strong> @Model.Stock
+            </li>
+        </ul>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="d-flex justify-content-end">
+                <a asp-action="Index" class="btn btn-outline-secondary me-3">Cancelar</a>
+                <button type="submit" class="btn btn-danger">Eliminar</button>
+            </div>
+        </form>
+
+    </div>
+</div>

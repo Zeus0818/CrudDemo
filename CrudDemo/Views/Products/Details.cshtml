@@ -1,0 +1,31 @@
+﻿@model CrudDemo.Models.Product
+
+@{
+    ViewData["Title"] = "Detalles del producto";
+}
+
+<div class="card bg-black text-light shadow-lg border-secondary">
+    <div class="card-header border-secondary">
+        <h2 class="fw-bold text-info mb-0">Detalles del producto</h2>
+    </div>
+
+    <div class="card-body">
+
+        <dl class="row">
+            <dt class="col-sm-3">Nombre</dt>
+            <dd class="col-sm-9">@Model.Name</dd>
+
+            <dt class="col-sm-3">Precio</dt>
+            <dd class="col-sm-9">S/. @Model.Price</dd>
+
+            <dt class="col-sm-3">Stock</dt>
+            <dd class="col-sm-9">@Model.Stock</dd>
+        </dl>
+
+        <div class="d-flex justify-content-end">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning me-3">Editar</a>
+            <a asp-action="Index" class="btn btn-outline-secondary">Volver</a>
+        </div>
+
+    </div>
+</div>

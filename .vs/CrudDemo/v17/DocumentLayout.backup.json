@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\migrations\\20251118021545_addpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\migrations\\20251118021545_addpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|c:\\users\\zamud\\desktop\\csharp-practice\\cruddemo\\cruddemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43925722-B1E0-4DD0-BD45-AE6C89155C9B}|CrudDemo\\CrudDemo.csproj|solutionrelative:cruddemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 235,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "CrudDemo\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:13:52.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CrudDemo\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CrudDemo\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:12:14.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "CrudDemo\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "CrudDemo\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T02:54:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudDemo\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "CrudDemo\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T02:54:11.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudDemo\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "CrudDemo\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T02:53:05.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CrudDemo\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CrudDemo\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T02:52:39.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudDemo\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "CrudDemo\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T02:36:54.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T02:32:17.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudDemo\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "CrudDemo\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T02:25:45.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T02:23:56.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CrudDemo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CrudDemo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:20:28.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CrudDemo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Models\\Product.cs",
+              "RelativeToolTip": "CrudDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:20:20.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251118021545_AddPricePrecision.cs",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Migrations\\20251118021545_AddPricePrecision.cs",
+              "RelativeDocumentMoniker": "CrudDemo\\Migrations\\20251118021545_AddPricePrecision.cs",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Migrations\\20251118021545_AddPricePrecision.cs",
+              "RelativeToolTip": "CrudDemo\\Migrations\\20251118021545_AddPricePrecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:15:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CrudDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CrudDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:14:21.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CrudDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\zamud\\Desktop\\CSharp-Practice\\CrudDemo\\CrudDemo\\Program.cs",
+              "RelativeToolTip": "CrudDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:11:48.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

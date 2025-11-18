@@ -1,0 +1,39 @@
+﻿@model IEnumerable<CrudDemo.Models.Product>
+
+@{
+    ViewData["Title"] = "Productos tecnológicos";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="fw-bold text-info">Productos tecnológicos</h1>
+
+    <a class="btn btn-primary" asp-action="Create">
+        <i class="bi bi-plus-circle"></i> Agregar producto
+    </a>
+</div>
+
+<table class="table table-dark table-hover shadow-lg rounded overflow-hidden">
+    <thead class="table-secondary text-dark">
+        <tr>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Stock</th>
+            <th class="text-end">Opciones</th>
+        </tr>
+    </thead>
+    <tbody class="align-middle">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>S/. @item.Price</td>
+                <td>@item.Stock</td>
+                <td class="text-end">
+                    <a class="btn btn-sm btn-outline-info" asp-action="Details" asp-route-id="@item.Id">Detalles</a>
+                    <a class="btn btn-sm btn-outline-warning" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                    <a class="btn btn-sm btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
